@@ -1,0 +1,9 @@
+site_name: Carnival System Manual
+plugins:
+  - search
+nav:
+    - Home: index.md
+    - Staff User: user.md
+    - Contract: contract.md
+  
+theme: readthedocs
