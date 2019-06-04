@@ -22,7 +22,7 @@ When the staff position is `Sales` please select the `Team`
 #Edit Staff User
 Click `詳細 Detail` in the right of the user list
 ![Screenshot](images/createUser4.png)  
-
+Select `更改密碼 Password` to change the password  
 
 #Access Right CheckList
 Function | Master | Supervisor | Customer Service | Sales
