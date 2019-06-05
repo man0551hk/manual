@@ -21,7 +21,21 @@ Click `轉購 Repurchase` will go to repurchase page
 
 #Remittance
 Click `加購 Remittance` in the client list
+![Screenshot](images/client6.png)
+Remittance not allow to change the total applicants
 
-#Redemotion
+  
+#Redemption
+![Screenshot](images/client7.png)
+Select the `Redemption Units` and `Redemption Type`, click `確定 Submit`
 
+![Screenshot](images/client8.png)
+After submit redemption, click `Approve` to approve the redemption
+
+![Screenshot](images/client9.png)
+After approved the redemption, click `Completed` to complete the redemption
+
+![Screenshot](images/client10.png)
+![Screenshot](images/client10.png)
+After completed redemption, contract status will be changed to `停用 Supsended` 
 #Repurchase
