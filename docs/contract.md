@@ -26,7 +26,7 @@ Click *複制第一申請人* to copy the first applicant address
 Click `確定 Save`, after save successful, will return to contract detail page
 
 #Contract Detail
-Select `詳細資料 Detail` in the contract list
+Click `詳細資料 Detail` in the contract list
 
 ![Screenshot](images/contract4.png)  
 ```
