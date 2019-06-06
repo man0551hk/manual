@@ -18,5 +18,8 @@ Click `確定 Save` at the bottom to save
 ![Screenshot](images/config5.png) 
 Input the currency, click `新增 Create`
 
-#View Pending Email/SMS/Cert
-Side Menu -> `電郵/短訊 Email/SMS`
+#View Pending Email/SMS/Certificate/Monthly Statement
+Side Menu -> `電郵/短訊 Email/SMS`   
+There is a schedule program to send out the Email and SMS. 
+The schedule program will also generate the Certificate when the contract status is `打印證書 Print Cert`   
+The monthly statement will auto generate on every 23th
