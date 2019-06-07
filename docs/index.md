@@ -1,15 +1,10 @@
 # Carnival System Manual
 
-<!-- ## Commands
+##Normal Operation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+    1. Create a new contract with client information
+    2. Supervisor go to client detail page to view the client information , and approve
+    3. Update contract status in contract detail page
+    4. Manually dividend interest
+    5. Auto generate monthly statement on every 23th
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->

@@ -6,5 +6,6 @@ nav:
     - Staff User: user.md
     - Contract: contract.md
     - Client: client.md
+    - Config: config.md
   
 theme: readthedocs
