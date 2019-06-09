@@ -74,3 +74,5 @@ Click `確定 Save`
 ![Screenshot](images/contract12.png)  
 Click `派息 Dividend` to add the interest to account   
 Select `pay slip`, enter `reference no` and `pay amount` to record the withdraw interest
+
+

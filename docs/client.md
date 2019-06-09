@@ -36,6 +36,9 @@ After submit redemption, click `Approve` to approve the redemption
 After approved the redemption, click `Completed` to complete the redemption
 
 ![Screenshot](images/client10.png)
-![Screenshot](images/client10.png)
+![Screenshot](images/client11.png)
 After completed redemption, contract status will be changed to `停用 Supsended` 
+
 #Repurchase
+![Screenshot](images/client12.png)
+Click `Save`.
